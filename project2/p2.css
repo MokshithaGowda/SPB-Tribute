@@ -1,0 +1,71 @@
+body {
+    
+    padding: 50px;
+    margin: 0;
+    background-size: cover;
+  }
+  
+  .container {
+    border: 5px solid #161516;
+    padding: 50px;
+    text-align: center;
+    border-radius: 5%;
+    background-color: rgb(243, 245, 244);
+    background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8NDw0NDQ0NDQ0NDQ0NDQ0NDQ8NDQ0NFREWFhURFRUYHSggGBolGxUVITEhJSkrLi4uFx9CODMtTygtOj4BCgoKDg0OFQ8PFSsZFRktKysrKystLS0tLS0tLS0tLSstKzcrLS0tLS0rKy0tLSs3LS03LSstKystKys3KysrK//AABEIAKsBJwMBIgACEQEDEQH/xAAYAAEBAQEBAAAAAAAAAAAAAAABAAIDB//EABwQAQEBAQEBAQEBAAAAAAAAAAABEQISMSFhQf/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgT/xAAYEQEBAQEBAAAAAAAAAAAAAAAAEQExIf/aAAwDAQACEQMRAD8A9jSThdCSFBFj41AILNuA0BOiAsMRBIVcrgUkqJJlIrQwoEza0yQMWEWtIsSlFQaQhUSSUSSQSSBJJlUkkEkgZ9NM3kT8BqwgghYUDI1tjoGpdQ5g6UV1qDmrDBpDVKoUhRELUsRTpZsWqjTmfR03VMhZnTS4iSSoNKSKgUCQ0gkkkEkkVJJAVmxsWAOb/jQkIIWpYoRSgZlPUWIGOTq00ApMUbMBBabFixERhUGrGeoJUqmxY19RBhuKiU4jSZtZpSNliL0UjRGrVBYiiFHKtKwFEiCQLCpIARaUDKrQoDmtMNKFz6dB1Ac9a56Zw+UU60zg1ajoLWeelYtDzS5/GvRSNBnWuYCrGtWqcpoYz1G1iwc9K6h5iBqnJWqg6PMSBKjRaUa1alYozal5TPqmQ0s9IHVKzzFAaq1nqiAbTzTYz1AX1WnkYo1Cxa1KuaLFaR0bgzOhapFeWQNTplCtbqsZOqhjUoZkXg1YYlqoqoLRKlFWoNVFaYp1k3RRN8iwgEcGIGHWdS0a1MIpHRJMiSQM3kyK0Sg0zY0zQWYI1KNwGaom5FgNX1pixdQfDOlV5RVcMYRRqChINaZWI3i4avStZoKRqsmIBrUosCBtakYh1c0blVZnSvS1IobVogqnJwaYC8ppLEqQhYVBVSAOhjWEBBGkDOK8tC1RmRsWiVUaQSjNaqZtTig0yKkBIoAgToFA0GVlBqJYgODFK1YozYMdIlhXOQ41WZUFYmtVARqgKGVCIRtJMqB00gEpZtSwTQiIFz6P1XlFEWmgRrWbRauYoZ0bArQa5QolWjVjONSkGFV1VjIoC1iwWi1ZT/AYdIx5JngbWb0ZBTdBqOBFa4itESotEpsCDUqZiWjqxOmxiBGkWAz1VKLGuVBrSxNYiVqFSA9Ck4iszkyNfBqwZqhtVqBDOqA0dUZoH6ktBRrWEZpDembVaEo6cmxiNRrBWs6bGcTRWqAorSlZpVEmpVSDKSB0BSArPptzoFQ4MFatFrLUi4hZsa0dKjJgVqK1aY56SjWM2Gfgv6DLfA8r4B+BaEGr+mciVprAYr+CjqgycSZUrQgalP1nmJUVh8inkFOTYNQLQiDNqSRXVICJEAqsIoKQhLgqPprPKorMEjVXIrPUUboSFFo5NigNM9JVRnAUyoaijUMRm0Q9AFTAhVSyYDXJ/GR0tQ1aEinVAgREbojAaqFf/9k=)
+    }
+
+  
+    .header-container h1 {
+      font-family: "Acme", sans-serif;
+      color: rgb(17, 16, 19);
+    }
+  
+  .info-container {
+    text-align: left;
+    word-wrap: normal;
+  }
+  
+  .about {
+    font-family: sans-serif;
+    color: rgb(10, 9, 12);
+    line-height: 25px;
+    font-size: 17px;
+    word-wrap: normal;
+  }
+  
+  
+  .music-list {
+    padding-top: 50px;
+  }
+  
+  .sub-head-title {
+    text-align: left; 
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 4000px;
+    color: rgb(12, 12, 14);
+    padding-top: 10px;
+    
+  }
+  
+  .list-container {
+    text-align: left;
+    font-family: sans-serif;
+    color: rgb(15, 14, 19);
+    line-height: 35px;
+  }
+  
+  
+  .ref-links {
+    text-align: left;
+    font-family: sans-serif;
+    color: rgb(19, 16, 16);
+  }
+
+  .vedios {
+    text-align: left;
+    font-family: sans-serif;
+    color: rgb(22, 20, 20);
+  }
+  a:hover { 
+      background-color: yellow; 
+  }
